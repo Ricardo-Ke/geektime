@@ -1,0 +1,1 @@
+ byte buffer for marshaling data.
